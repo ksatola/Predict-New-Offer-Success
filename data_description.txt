@@ -1,0 +1,16 @@
+Dataset, columns business meaning
+
+'offer_class' - previous offer class. e.g 
+ 'accepted' - flag related whether customer accepted or not affer
+ 'name' - hashed customer name
+ 'gender' - customer geneder
+ 'age' - age in years
+ 'phone_calls' - number of phone conversations with client during last quarter
+ 'emails' - number of emails sent to client during last 6 months
+ 'customer_code' - customer code
+ 'salary' - customer estimated salary
+ 'offer_code' - previous offer code
+ 'customer_type' - type of customer
+ 'number' - serial number of customer device
+ 'offer_value' - previous offers total value
+ 'estimated_expenses' - estimated expenses
