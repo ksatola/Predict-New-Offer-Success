@@ -1,4 +1,4 @@
-# Predict-New-Offer-Success
+# Predict New Offer Success
 ## Context
 There is a company, which prepared special new offer for their customers. They have a dataset which consists information about their clients and how they reacted to the previous offers.
 
